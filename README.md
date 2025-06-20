@@ -218,4 +218,5 @@
 
 ----
 © 2025 Gosuslugi and HH.RU Career Hacker: Advanced Tab Tracking Blocker Browser Extension. Все права защищены.
+
 © 2025 Andrey Zinoviev in Telegram [@DTorretto](https://t.me/DTorretto) aka [@Zevs_AV](https://t.me/Zevs_AV), E-Mail: avzevs@gmail.com. Все права защищены.
