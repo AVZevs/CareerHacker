@@ -1,0 +1,58 @@
+{
+  "manifest_version": 3,
+  "name": "Gosuslugi and HH.RU Career Hacker: Advanced Tab Tracking Blocker [2.0]",
+  "version": "2.0",
+  "description": "Предотвращает обнаружение веб-сайтами изменений фокуса вкладок/окон. Позволяет пройти тест подверждения IT-компетенций на HH.RU с возможностью покидать вкладку с тестом и не быть замеченным в этом нарушении.",
+  
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  
+  "permissions": [
+    "scripting",
+    "webRequest",
+    "alarms",
+    "declarativeNetRequest",
+    "storage",
+    "clipboardRead",
+    "clipboardWrite",
+    "tabs"
+  ],
+  
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  
+  "background": {
+    "scripts": ["background.js"]
+  },
+  
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content-script.js"],
+      "run_at": "document_start",
+      "all_frames": true,
+      "match_about_blank": true
+    }
+  ],
+  
+  "icons": {
+    "128": "icon.png"
+  },
+  
+  "web_accessible_resources": [
+    {
+      "resources": ["inject.js"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "careerhacker@hitsecurity.ru",
+      "strict_min_version": "109.0"
+    }
+  }
+}
