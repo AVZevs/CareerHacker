@@ -1,6 +1,18 @@
 # Gosuslugi and HH.RU Career Hacker: Advanced Tab Tracking Blocker
 
+## Новости
+
 <b><i>Выпущена новая версия расширения - Career Hacker 2.0. Пофиксены баги, добавлены улучшения, в том числе для прохождения практических тестов с онлайн редактором кода на HH.Ru</i></b>
+
+Расширение Career Hacker прошло все обязательные проверки на безопасность (и не только) со стороны Google и Mozilla и теперь доступно для скачивания в официальных сторах Chrome Web Store и Mozilla Firefox Add-ons.
+
+Ссылки для скачивания:
+
+Chrome Web Store: [https://chromewebstore.google.com/detail/gosuslugi-and-hhru-career/ammfijfhdajkoeoghjhfiadinnpmliag](https://chromewebstore.google.com/detail/gosuslugi-and-hhru-career/ammfijfhdajkoeoghjhfiadinnpmliag)
+
+Firefox Add-ons: [https://addons.mozilla.org/ru/firefox/addon/hhru-careerhack-track-blocker/](https://addons.mozilla.org/ru/firefox/addon/hhru-careerhack-track-blocker/)
+
+## О расширении
 
 Расширение для браузеров для обхода ограничений платформы HH.Ru при прохождении тестов на подтверждение IT-компетенций и других тестов.
 

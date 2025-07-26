@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Gosuslugi and HH.RU Career Hacker: Advanced Tab Tracking Blocker [2.0]",
+  "name": "HH.RU Career Hacker: Tab Tracking Blocker",
   "version": "2.0",
   "description": "Предотвращает обнаружение веб-сайтами изменений фокуса вкладок/окон. Позволяет пройти тест подверждения IT-компетенций на HH.RU с возможностью покидать вкладку с тестом и не быть замеченным в этом нарушении.",
   
